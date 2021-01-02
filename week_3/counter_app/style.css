@@ -1,0 +1,41 @@
+
+ body{
+
+    background-color: black;
+    background-size: cover;
+    height: 100vh;
+    padding:0;
+    margin:0;
+    color: white;
+}
+ .align{
+text-align: center;
+}
+  h1,h2{
+font-family: Comic Sans MS;
+}
+h1{
+font-size:80px;
+}
+#count{
+ font-size: 100px;
+}
+button{
+width: 17%;
+height:60px;
+}
+ #appStoreIcon {
+              
+              width: 200px;
+              
+          }
+          
+          #footer {
+              
+              background-color: 	#006400;
+              padding-top: 150px;
+              margin-top: 50px;
+              text-align: center;
+              padding-bottom: 150px;
+          }
+  
